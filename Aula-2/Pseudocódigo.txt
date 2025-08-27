@@ -1,0 +1,8 @@
+INICIO
+    ESCREVA "Digite um número:"
+    LEIA numero
+
+    SE numero % 2 = 0 ENTÃO
+        ESCREVA "O número é par"
+    SENÃO
+        ESCREVA "O numero é ímpar"
