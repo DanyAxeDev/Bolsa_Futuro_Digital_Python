@@ -17,6 +17,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | Aula 6 | Dicionários e conjuntos |
 | Aula 7 | Atividade avaliativa |
 | Aula 8 | Git e GitHub |
+| Aula 9 | Funções |
 
 ## Configurações
 
