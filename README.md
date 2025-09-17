@@ -18,6 +18,10 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | Aula 7 | Atividade avaliativa |
 | Aula 8 | Git e GitHub |
 | Aula 9 | Funções |
+| Aula 10 | Funções 2 |
+| Aula 11 | Introdução a POO |
+| Aula 12 | Métodos especiais e Encapsulamento |
+| Aula 13 | Herança e Polimorfismo |
 
 ## Configurações
 
