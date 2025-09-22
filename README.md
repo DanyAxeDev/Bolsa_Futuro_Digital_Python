@@ -15,13 +15,14 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | Aula 4 | Laços de repetição |
 | Aula 5 | Listas e tuplas |
 | Aula 6 | Dicionários e conjuntos |
-| Aula 7 | Atividade avaliativa |
+| Aula 7 | Atividade Lógica de programação |
 | Aula 8 | Git e GitHub |
 | Aula 9 | Funções |
 | Aula 10 | Funções 2 |
 | Aula 11 | Introdução a POO |
 | Aula 12 | Métodos especiais e Encapsulamento |
 | Aula 13 | Herança e Polimorfismo |
+| Aula 14 | Atividade POO |
 
 ## Configurações
 
