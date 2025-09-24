@@ -1,1 +1,4 @@
 virtuali
+*.db
+__pycache__
+tempCodeRunnerFile.py
