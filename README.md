@@ -24,6 +24,8 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | Aula 13 | Herança e Polimorfismo |
 | Aula 14 | Atividade POO |
 | Aula 15 | Banco de dados Sqlite |
+| Aula 16 | Mini projeto em grupo |
+| Aula 17 | Modelagem relacional avançada |
 
 ## Configurações
 
