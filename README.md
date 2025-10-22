@@ -26,6 +26,9 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | Aula 15 | Banco de dados Sqlite |
 | Aula 16 | Mini projeto em grupo |
 | Aula 17 | Modelagem relacional avançada |
+| Aula 18 | Consultas básicas de SQL |
+| Aula 19 | Consultas avançadas de SQL |
+| Aula 20 | Atividade de SQL |
 
 ## Configurações
 
