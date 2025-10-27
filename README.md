@@ -1,7 +1,7 @@
 
-# Título do Projeto
+# Python Back-end Softex
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Uma coelatânea dos códigos produzidos em aula.
 
 
 
@@ -29,6 +29,8 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 | Aula 18 | Consultas básicas de SQL |
 | Aula 19 | Consultas avançadas de SQL |
 | Aula 20 | Atividade de SQL |
+| Aula 21 | Solid |
+| Aula 23 | Flask: Introdução |
 
 ## Configurações
 
