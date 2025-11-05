@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+    {% block conteudo %}
+        <h1>Conheça Nossos Produtos</h1>
+        <p>Aqui está nossa lista de produtos disponíveis:</p>
+            <div class="container">
+                {% for item in produtos %}
+                <div class="card">
+                    <img src="{{url_for('static', filename=item.imagem)}}" alt="">{{ item.nome }} - <strong>Preço:</strong> {{ item.preco }}
+                </div>
+                {% endfor %}
+            </div>
+{% endblock %}
